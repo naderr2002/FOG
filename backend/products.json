@@ -1,0 +1,94 @@
+{
+  "all": [
+    {
+      "id": 2,
+      "name": "Orange Juice",
+      "category": "drinks",
+      "description": "Freshly squeezed oranges for pure vitamin C.",
+      "price": 3,
+      "discount": 0,
+      "photo": null
+    },
+    {
+      "id": 3,
+      "name": "Grilled Chicken",
+      "category": "maindishes",
+      "description": "Tender grilled chicken marinated with herbs.",
+      "price": 12,
+      "discount": 2,
+      "photo": null
+    },
+    {
+      "id": 10,
+      "name": "Beef Steak",
+      "category": "maindishes",
+      "description": "Juicy and tender beef steak with special sauce.",
+      "price": 15,
+      "discount": 0,
+      "photo": null
+    },
+    {
+      "id": 4,
+      "name": "Greek Salad",
+      "category": "salads",
+      "description": "Tomatoes, olives, feta cheese and fresh veggies.",
+      "price": 8,
+      "discount": 0,
+      "photo": null
+    },
+    {
+      "id": 5,
+      "name": "Cheesecake",
+      "category": "desserts",
+      "description": "Creamy cheesecake with fresh strawberries.",
+      "price": 6,
+      "discount": 1,
+      "photo": null
+    },
+    {
+      "id": 6,
+      "name": "Fried Calamari",
+      "category": "appetizers",
+      "description": "Crispy and tender squid rings with dipping sauce",
+      "price": 7,
+      "discount": 1,
+      "photo": null
+    },
+    {
+      "id": 7,
+      "name": "Tomato Soup",
+      "category": "soups",
+      "description": "Rich and smooth tomato soup with herbs.",
+      "price": 5,
+      "discount": 0,
+      "photo": null
+    },
+    {
+      "id": 8,
+      "name": "French Fries",
+      "category": "sides",
+      "description": "Golden crispy fries with sea salt.",
+      "price": 3,
+      "discount": 0.5,
+      "photo": null
+    },
+    {
+      "id": 9,
+      "name": "Grilled Salmon",
+      "category": "fish",
+      "description": "Fresh Atlantic salmon grilled to perfection.",
+      "price": 14,
+      "discount": 0,
+      "photo": null
+    },
+    {
+      "name": "pepsi",
+      "description": "",
+      "price": 2,
+      "discount": 0,
+      "photo": "",
+      "category": "drinks",
+      "id": 11
+    }
+  ]
+}
